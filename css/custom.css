@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.fnt-w8-300 {
+  font-weight: 300;
+}
+.fnt-w8-400 {
+  font-weight: 400;
+}
+.fnt-w8-600 {
+  font-weight: 500!important;
+  color: #2E3192!important;
+  opacity: 0.9!important;
+}
+.fnt-sze-18 {
+  font-size: 18px;
+}
+.fnt-sze-20 {
+  font-size: 20px;
+}
+.primary-clr {
+  color: #4a90e2;
+}
+
+*{
+    margin: 0;padding: 0;
+  }
+
+
